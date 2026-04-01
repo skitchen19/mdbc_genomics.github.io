@@ -26,8 +26,7 @@ genome_size_display: 322.1 Mib
 genome_size_method: GoaT
 last_raw_data: 
 last_updated: 
-metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;jaCalGrac1.1<br>&nbsp;&nbsp;name:&nbsp;
-Callogorgia&nbsp;gracilis<br>&nbsp;&nbsp;taxon_id:&nbsp;1309697<br>&nbsp;&nbsp;common_name:&nbsp;none<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scleralcyonacea<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primnoidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;jaCalGrac1.1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113581028<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;322100000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;Aquatic-Genomics-Wellcome-Sanger&nbsp;]<br>
+metadata: species:<br>&nbsp;&nbsp;short_name:&nbsp;jaCalGrac1.1<br>&nbsp;&nbsp;name:&nbsp;Callogorgia&nbsp;gracilis<br>&nbsp;&nbsp;taxon_id:&nbsp;1309697<br>&nbsp;&nbsp;common_name:&nbsp;none<br>&nbsp;&nbsp;order:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Scleralcyonacea<br>&nbsp;&nbsp;family:<br>&nbsp;&nbsp;&nbsp;&nbsp;name:&nbsp;Primnoidae<br>&nbsp;&nbsp;individuals:<br>&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;short_name:&nbsp;jaCalGrac1.1<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosample_id:&nbsp;SAMEA113581028<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sex:<br>&nbsp;&nbsp;genome_size:&nbsp;322100000<br>&nbsp;&nbsp;genome_size_method:&nbsp;GoaT<br>&nbsp;&nbsp;project:&nbsp;[&nbsp;Aquatic-Genomics-Wellcome-Sanger&nbsp;]<br>
 name: Callogorgia gracilis
 name_: Callogorgia_gracilis
 pri2date: 2024-07-27
