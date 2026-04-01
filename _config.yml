@@ -35,6 +35,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+  - vendor
+  - vendor/bundle
   - README.md
   - README.txt
   - CNAME
